@@ -1,0 +1,23 @@
+.menu_bar_bg{
+    margin-top: 20px;
+    background-color: #6EBE3B;
+}
+
+.menu_bar a{
+    text-decoration: none;
+    margin: 15px;
+    color: #198754;
+  
+}
+.menu_bar a:hover{
+   color: white;
+}
+.person{
+    margin-right: 10px;
+    margin-top: 2px;
+    height: 50px;
+    width: 50px;
+    border: 4px solid rgba(255, 0, 0, 0.348);
+    border-radius: 80%;
+   
+}

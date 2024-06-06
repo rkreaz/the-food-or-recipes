@@ -1,0 +1,23 @@
+.right_nav{
+   
+    border-radius: 5px;
+}
+.food_items{
+  color: #198754;
+  text-decoration: none;
+  
+}
+.get_social_fac{
+  background-color: #3B5998;
+ 
+}
+.get_social_twi{
+  background-color: #33BCF3;
+}
+.get_social_goo{
+  background-color: #DD4B39;
+}
+.social_fac{
+  color: white;
+  text-decoration: none;
+}
